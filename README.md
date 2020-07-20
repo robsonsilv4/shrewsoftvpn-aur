@@ -37,6 +37,8 @@ sudo pacman -Sy openldap
 5 - Just if you want to compile the package again (optional):
 
 ```sh
+cd aur
+
 makepkg -si
 ```
 
