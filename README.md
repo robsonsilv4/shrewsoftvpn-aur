@@ -9,9 +9,9 @@ This repository contains the builded package ready for install and the PKGBUILD 
 1 - Clone the repository:
 
 ```sh
-git clone https://github.com/robsonsilv4/shrewsoftvpn-archlinux.git
+git clone https://github.com/robsonsilv4/shrewsoftvpn-aur.git
 
-cd shrewsoftvpn-archlinux
+cd shrewsoftvpn-aur
 ```
 
 2 - Install the package:
